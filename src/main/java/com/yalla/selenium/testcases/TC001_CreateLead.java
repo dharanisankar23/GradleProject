@@ -16,7 +16,7 @@ public class TC001_CreateLead extends Annotations{
 		testDescription = "CreateLead Positive";
 		testNodes = "createLead";
 		authors = "dharani";
-		category = "Smoke";
+		category = "Sanity";
 		excelFileName = "CreateLead";
 	}
 	
