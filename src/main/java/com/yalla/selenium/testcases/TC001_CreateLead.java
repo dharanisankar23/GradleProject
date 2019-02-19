@@ -26,7 +26,7 @@ public class TC001_CreateLead extends Annotations{
 		new MyHome()
 		.ClickLead()
 		.clickCreateLead()
-		.enterCompanyName(companyName)
+		.enterCompanyName(companyName1)
 		.enterFfirstName(firstName)
 		.enterLastName(lastName)
 		
